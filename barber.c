@@ -1,6 +1,4 @@
 /*Ridge Tejuco
-Project 8
-CSUN - COMP 322
 03 May 2020
 */
 
