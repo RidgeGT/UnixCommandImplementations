@@ -1,5 +1,4 @@
 /*Ridge Tejuco
-CSUN- COMP322L
 06 May 2020*/
 #include <stdio.h>
 #include <stdlib.h>
